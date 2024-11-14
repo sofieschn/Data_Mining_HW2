@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# filenames for data exclusion
+*.dat
+
 # C extensions
 *.so
 
